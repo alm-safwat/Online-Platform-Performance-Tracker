@@ -51,3 +51,6 @@ The dataset provided encompassed various fields including channel grouping, coun
 
 ## Conclusion:
 Through the analysis of our online platform's performance using Power BI, I've uncovered valuable insights and recommendations for optimizing user experience, content strategy, and marketing efforts. Implementing these recommendations can lead to enhanced business growth and improved overall performance.
+
+## Dashboard Link:
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTVmZDRjNmQtNzk4NC00YmQyLWE4ZjUtYTRhNDVmNjI0ZGQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
