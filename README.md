@@ -33,6 +33,12 @@ The dataset provided encompassed various fields including channel grouping, coun
 - Leveraging the insights derived from the analysis, I provided data-driven recommendations to the business owner and their marketing team.
 - These recommendations had a significant impact on the performance of their online platform business, driving growth and optimizing strategies.
 
+
+![PBIDesktop_X7d2IB6Crq](https://github.com/alm-safwat/Online-Platform-Performance-Tracker/assets/135442913/bbc663b8-d640-4786-9ded-848d563da587)
+
+![PBIDesktop_oukeZnQ7U0](https://github.com/alm-safwat/Online-Platform-Performance-Tracker/assets/135442913/d7808c57-dda3-4dd6-ae07-39c92c11cf81)
+
+
 ## Recommendations and Insights:
 1. **Optimize Page Load Time:** Addressing factors contributing to slow loading times can enhance user experience and reduce bounce rates.
 2. **Content Optimization:** Tailoring content creation efforts based on top-performing page titles can drive traffic and engagement.
