@@ -1,4 +1,4 @@
-# My Online Platform Performance Analysis Project
+# Online Platform Performance Analysis Project
 
 ## Project Overview:
 In this project, I embarked on analyzing the performance of our online platform to uncover actionable insights that can drive business growth. Leveraging Power BI, I delved into the data, profiling it comprehensively and modeling it to extract valuable insights.
@@ -29,8 +29,9 @@ The dataset provided encompassed various fields including channel grouping, coun
 - Microsoft Excel: Additionally, Microsoft Excel might have been used for data preprocessing and initial analysis.
 
 ## Outcomes:
-- I successfully developed a dynamic dashboard in Power BI, showcasing selected KPIs and visualizations.
-- The insights derived from the analysis offer actionable recommendations for driving business growth and optimizing strategies.
+- As a BI Developer, I successfully developed a dynamic dashboard in Power BI, showcasing selected KPIs and visualizations.
+- Leveraging the insights derived from the analysis, I provided data-driven recommendations to the business owner and their marketing team.
+- These recommendations had a significant impact on the performance of their online platform business, driving growth and optimizing strategies.
 
 ## Recommendations and Insights:
 1. **Optimize Page Load Time:** Addressing factors contributing to slow loading times can enhance user experience and reduce bounce rates.
